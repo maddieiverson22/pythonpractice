@@ -1,11 +1,12 @@
-print("Hello World!")
-print("I love Elvis Presley!")
+#define function
+def topFiveMovies():
+    #print first movie
+    print("Harry Potter")
 
-#print first favorite movie
-print("Harry Potter")
+    #print first movie
+    print("Nacho Libre")
 
-#print second favorite movie
-print("Nacho Libre")
+    #print first movie
+    print("One Direction Documentary")
 
-#print third favorite movieiS
-print("One Direction Documentary")
+topFiveMovies()
