@@ -42,3 +42,14 @@ topFiveMovies()
 topFiveSports()
 topThreePizzas()
 topThreeIceCreamFlavors()
+print(11)
+print(22 + 14587)
+print(45 * 2)
+print(45**8)
+print (121 / 34)
+
+def myNameIs(x):
+    print(x + " is my name.")
+
+myNameIs("Maddie")
+myNameIs("Iverson")
